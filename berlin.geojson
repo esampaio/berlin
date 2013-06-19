@@ -5,7 +5,8 @@
       "properties": {
         "name": "Fleischerei Domke",
         "cuisine": "Meat",
-        "address": "Warschauerstr. 64 10243 Friedrichschain 030 2917635",
+        "address": "Warschauerstr. 64, 10243 Friedrichschain",
+        "telephone": "030 2917635",
         "marker-color": "#FF3333",
         "marker-symbol": "restaurant"
       },
@@ -19,7 +20,8 @@
       "properties": {
         "name": "Hard Wax",
         "type": "Vinyl Shop",
-        "address": "Paul-Lincke-Ufer 44a, 10999 - 030 611 301 11",
+        "address": "Paul-Lincke-Ufer 44a, 10999 Kreuzberg",
+        "telephone": "030 61130111",
         "marker-color": "#3399FF",
         "marker-symbol": "music"
       },
