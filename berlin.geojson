@@ -1,12 +1,11 @@
 {"type": "FeatureCollection",
   "restaurants": [
-    {"type": "Feature",
+    { "type": "Feature",
+      "id": 0,
       "properties": {
         "name": "Fleischerei Domke",
         "cuisine": "Meat",
-        "popupContent": "Warschauerstr. 64
-        10243 Berlin
-        030 2917635"
+        "popupContent": "Warschauerstr. 64 10243 Friedrichschain 030 2917635"
       },
       "geometry": {
         "type": "Point",
