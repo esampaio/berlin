@@ -13,6 +13,20 @@
         "type": "Point",
         "coordinates": [13.452051, 52.510684]
       }
+    },
+    { "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Hard Wax",
+        "type": "Vinyl Shop",
+        "address": "Paul-Lincke-Ufer 44a, 10999 - 030 611 301 11",
+        "marker-color": "#3399FF",
+        "marker-symbol": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.420887, 52.49663]
+      }
     }
   ]
 }
