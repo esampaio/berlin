@@ -29,6 +29,21 @@
         "type": "Point",
         "coordinates": [13.420887, 52.49663]
       }
+    },
+    { "type": "Feature",
+      "id": 2,
+      "properties": {
+        "name": "OYE Records",
+        "type": "Vinyl Shop",
+        "address": "Oderbergerstr. 4, 10435 Prenzlauer Berg",
+        "telephone": "030 66647821",
+        "marker-color": "#3399FF",
+        "marker-symbol": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.410881, 52.538324]
+      }
     }
   ]
 }
