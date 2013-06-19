@@ -1,5 +1,5 @@
 {"type": "FeatureCollection",
-  "restaurants": [
+  "features": [
     { "type": "Feature",
       "id": 0,
       "properties": {
@@ -9,7 +9,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [52.510684,13.452051]
+        "coordinates": [52.510684, 13.452051]
       }
     }
   ]
