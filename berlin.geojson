@@ -1,6 +1,6 @@
 {"type": "FeatureCollection",
   "restaurants": [
-    {"type": "Restaurant",
+    {"type": "Feature",
       "properties": {
         "name": "Fleischerei Domke",
         "cuisine": "Meat",
