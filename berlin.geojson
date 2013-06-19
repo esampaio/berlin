@@ -1,15 +1,17 @@
-var places = [
-  {"type": "Restaurant",
-    "properties": {
-      "name": "Fleischerei Domke",
-      "cuisine": "Meat",
-      "popupContent": "Warschauerstr. 64
-      10243 Berlin
-      030 2917635"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [52.510684,13.452051]
+{"type": "FeatureCollection",
+  "restaurants": [
+    {"type": "Restaurant",
+      "properties": {
+        "name": "Fleischerei Domke",
+        "cuisine": "Meat",
+        "popupContent": "Warschauerstr. 64
+        10243 Berlin
+        030 2917635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [52.510684,13.452051]
+      }
     }
-  }
-]
+  ]
+}
