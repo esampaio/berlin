@@ -57,6 +57,20 @@
         "type": "Point",
         "coordinates": [13.410881, 52.538324]
       }
+    },
+    { "type": "Feature",
+      "id": 4,
+      "properties": {
+        "name": "Mead Shop",
+        "type": "Liquor Store",
+        "address": "Richard-Sorge-Strasse 79, 10249 Friedrichschain",
+        "marker-color": "#3399FF",
+        "marker-symbol": "alcohol-shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.448461, 52.518796]
+      }
     }
   ]
 }
