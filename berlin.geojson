@@ -1,76 +1,617 @@
-{"type": "FeatureCollection",
-  "features": [
-    { "type": "Feature",
-      "id": 0,
-      "properties": {
-        "name": "Glossy HQ",
-        "address": "Mauerstr.. 79, 10117 Mitte",
-        "marker-color": "#FF99FF",
-        "marker-symbol": "commercial"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.38733, 52.508844]
-      }
-    },
-    { "type": "Feature",
-      "id": 1,
-      "properties": {
-        "name": "Fleischerei Domke",
-        "cuisine": "Meat",
-        "address": "Warschauerstr. 64, 10243 Friedrichschain",
-        "telephone": "030 2917635",
-        "marker-color": "#FF3333",
-        "marker-symbol": "restaurant"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.452051, 52.510684]
-      }
-    },
-    { "type": "Feature",
-      "id": 2,
-      "properties": {
-        "name": "Hard Wax",
-        "type": "Vinyl Shop",
-        "address": "Paul-Lincke-Ufer 44a, 10999 Kreuzberg",
-        "telephone": "030 61130111",
-        "marker-color": "#3399FF",
-        "marker-symbol": "music"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.420887, 52.49663]
-      }
-    },
-    { "type": "Feature",
-      "id": 3,
-      "properties": {
-        "name": "OYE Records",
-        "type": "Vinyl Shop",
-        "address": "Oderbergerstr. 4, 10435 Prenzlauer Berg",
-        "telephone": "030 66647821",
-        "marker-color": "#3399FF",
-        "marker-symbol": "music"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.410881, 52.538324]
-      }
-    },
-    { "type": "Feature",
-      "id": 4,
-      "properties": {
-        "name": "Mead Shop",
-        "type": "Liquor Store",
-        "address": "Richard-Sorge-Strasse 79, 10249 Friedrichschain",
-        "marker-color": "#3399FF",
-        "marker-symbol": "alcohol-shop"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [13.448461, 52.518796]
-      }
-    }
-  ]
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.41894,
+                    52.53523999999999
+                ],
+                "type": "Point"
+            },
+            "id": 0,
+            "properties": {
+                "address": "Rykestra\u00dfe 52, 10405 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Ambiente und Lebensart"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.42038,
+                    52.54118
+                ],
+                "type": "Point"
+            },
+            "id": 1,
+            "properties": {
+                "address": "Dunckerstra\u00dfe 5, 10437 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Ambiente und Lebensart"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3228594,
+                    52.5112594
+                ],
+                "type": "Point"
+            },
+            "id": 2,
+            "properties": {
+                "address": "Hardenbergstra\u00dfe, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Ambiente und Lebensart"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32504,
+                    52.50586
+                ],
+                "type": "Point"
+            },
+            "id": 3,
+            "properties": {
+                "address": "Kantstra\u00dfe 17, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "By Oliver Kuhlmey im stilwerk"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32504,
+                    52.50586
+                ],
+                "type": "Point"
+            },
+            "id": 4,
+            "properties": {
+                "address": "Kantstra\u00dfe 17, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "BoConcept im stilwerk"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4264353,
+                    52.5187952
+                ],
+                "type": "Point"
+            },
+            "id": 5,
+            "properties": {
+                "address": "Strausberger Pl. 19, 10178 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "BoConcept"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3898889,
+                    52.51169119999999
+                ],
+                "type": "Point"
+            },
+            "id": 6,
+            "properties": {
+                "address": "Friedrichstra\u00dfe 63, 10117 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "BoConcept"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3264377,
+                    52.5004268
+                ],
+                "type": "Point"
+            },
+            "id": 7,
+            "properties": {
+                "address": "Fasanenstra\u00dfe 31A, 10719 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Bolia"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.18682,
+                    52.52131
+                ],
+                "type": "Point"
+            },
+            "id": 8,
+            "properties": {
+                "address": "Wilhelmstra\u00dfe 21, 13593 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Casa Innatura"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32504,
+                    52.50586
+                ],
+                "type": "Point"
+            },
+            "id": 9,
+            "properties": {
+                "address": "Kantstra\u00dfe 17, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Cramer im stilwerk"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3283509,
+                    52.5005604
+                ],
+                "type": "Point"
+            },
+            "id": 10,
+            "properties": {
+                "address": "Meinekestra\u00dfe 11, 10719 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Cramer Design loft"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3249032,
+                    52.5214812
+                ],
+                "type": "Point"
+            },
+            "id": 11,
+            "properties": {
+                "address": "Helmholtzstra\u00dfe 2, 10587 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Design-Store"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.43297,
+                    52.50557999999999
+                ],
+                "type": "Point"
+            },
+            "id": 12,
+            "properties": {
+                "address": "K\u00f6penicker Str. 18, 10997 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Exil \u2013 Wohnmagazin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32102,
+                    52.50697
+                ],
+                "type": "Point"
+            },
+            "id": 13,
+            "properties": {
+                "address": "Grolmanstra\u00dfe 22, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Holzconnection"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.35153,
+                    52.48661999999999
+                ],
+                "type": "Point"
+            },
+            "id": 14,
+            "properties": {
+                "address": "Belziger Str. 38, 10823 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Holzconnection"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.35827,
+                    52.50235
+                ],
+                "type": "Point"
+            },
+            "id": 15,
+            "properties": {
+                "address": "Genthiner Str. 40, 10785 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Krieger Home"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32285,
+                    52.46102
+                ],
+                "type": "Point"
+            },
+            "id": 16,
+            "properties": {
+                "address": "Ahornstra\u00dfe 4, 12163 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Lebensart \u2013 kreatives Wohnen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32504,
+                    52.50586
+                ],
+                "type": "Point"
+            },
+            "id": 17,
+            "properties": {
+                "address": "Kantstra\u00dfe 17, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Ligne Roset im stilwerk"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3244578,
+                    52.5000566
+                ],
+                "type": "Point"
+            },
+            "id": 18,
+            "properties": {
+                "address": "Lietzenburger Str. 75, 10719 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Ligne Roset"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.35791,
+                    52.50189
+                ],
+                "type": "Point"
+            },
+            "id": 19,
+            "properties": {
+                "address": "Genthiner Str. 48, 10785 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Ligne Roset"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.38371,
+                    52.51025
+                ],
+                "type": "Point"
+            },
+            "id": 20,
+            "properties": {
+                "address": "Leipziger Str. 124, 10117 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Ligne Roset"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3591,
+                    52.50191
+                ],
+                "type": "Point"
+            },
+            "id": 21,
+            "properties": {
+                "address": "Genthiner Str. 41, 10785 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "M\u00f6bel-H\u00fcbner"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3574726,
+                    52.476327
+                ],
+                "type": "Point"
+            },
+            "id": 22,
+            "properties": {
+                "address": "Sachsendamm 20, 10829 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "M\u00f6bel Kraft"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.37714,
+                    52.49206
+                ],
+                "type": "Point"
+            },
+            "id": 23,
+            "properties": {
+                "address": "Yorckstra\u00dfe 24, 10965 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Moove"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.97014,
+                    51.47537999999999
+                ],
+                "type": "Point"
+            },
+            "id": 24,
+            "properties": {
+                "address": "Steinweg 37, 06110 Halle (Saale), Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Odama"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3279062,
+                    52.52107770000001
+                ],
+                "type": "Point"
+            },
+            "id": 0,
+            "properties": {
+                "address": "Franklinstra\u00dfe 12, 10587 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Rahaus Country"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3270404,
+                    52.5196496
+                ],
+                "type": "Point"
+            },
+            "id": 1,
+            "properties": {
+                "address": "Franklinstra\u00dfe 8, 10587 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Rahaus Loft"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32589,
+                    52.5053
+                ],
+                "type": "Point"
+            },
+            "id": 2,
+            "properties": {
+                "address": "Kantstra\u00dfe 151, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Rahaus Living"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3754196,
+                    52.4432527
+                ],
+                "type": "Point"
+            },
+            "id": 3,
+            "properties": {
+                "address": "Ringstra\u00dfe 42, 12105 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Rahaus Zentrallager"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3429854,
+                    52.5018313
+                ],
+                "type": "Point"
+            },
+            "id": 29,
+            "properties": {
+                "address": "Wittenbergplatz, 10789 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Rahaus Wohnen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.38851,
+                    52.48732
+                ],
+                "type": "Point"
+            },
+            "id": 30,
+            "properties": {
+                "address": "Fidicinstra\u00dfe 40, 10965 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Room & Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32204,
+                    52.50666
+                ],
+                "type": "Point"
+            },
+            "id": 31,
+            "properties": {
+                "address": "Savignypl. 6, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Taiyo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32504,
+                    52.50586
+                ],
+                "type": "Point"
+            },
+            "id": 32,
+            "properties": {
+                "address": "Kantstra\u00dfe 17, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Trollhus im stilwerk"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.26299,
+                    52.48437
+                ],
+                "type": "Point"
+            },
+            "id": 33,
+            "properties": {
+                "address": "Douglasstra\u00dfe 9, 14193 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Villa Harteneck"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3185481,
+                    52.52636270000001
+                ],
+                "type": "Point"
+            },
+            "id": 34,
+            "properties": {
+                "address": "Wiebestra\u00dfe 12, 10553 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Who\u2019s perfect"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.32504,
+                    52.50586
+                ],
+                "type": "Point"
+            },
+            "id": 35,
+            "properties": {
+                "address": "Kantstra\u00dfe 17, 10623 Berlin, Germany",
+                "marker-color": "#FF99FF",
+                "marker-symbol": "commercial",
+                "name": "Stilwerk"
+            },
+            "type": "Feature"
+        }
+    ]
 }
