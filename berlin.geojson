@@ -412,14 +412,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    11.97014,
-                    51.47537999999999
+                    13.4067138,
+                    52.526424
                 ],
                 "type": "Point"
             },
             "id": 24,
             "properties": {
-                "address": "Steinweg 37, 06110 Halle (Saale), Germany",
+                "address": "Steinstraße 37, 10119 Berlin, Germany",
                 "marker-color": "#FF99FF",
                 "marker-symbol": "commercial",
                 "name": "Odama"
